@@ -2,7 +2,6 @@
 
 Uses the main libraries to verify the environment installation.
 """
-
 from datetime import datetime
 import matplotlib.pyplot as plt
 import numpy as np
