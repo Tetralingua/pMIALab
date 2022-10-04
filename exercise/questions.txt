@@ -1,0 +1,4 @@
+1) By increasing the tree depth size both the training and test accuracy increases in the very quick to over 95% (less than 10 tree depht)
+   The shaded area shows the probability of red or blue.
+2) The accuracy stays almost the same for both training and testing.  
+3) tree_number: 100 tree_depth: 80, training accuracy 100% testing accuracy ~94%
